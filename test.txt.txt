@@ -1,10 +1,2 @@
 This is a test.chngg
-<<<<<<< HEAD
 
-Working off of a brnach from main
-
-in hotfix for a test.
-blabla
-=======
-I am making more changes.
->>>>>>> be0b47aaf5db329a685f212b0e4a567d50139ab2
